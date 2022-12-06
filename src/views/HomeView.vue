@@ -10,7 +10,7 @@
         <span>Always preparing</span>
         <span>for the <strong>future</strong></span>
         <span>Giving my best</span>
-        <span>In each project</span>
+        <span>on each project</span>
       </p>
     </div>
   </div>

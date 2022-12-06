@@ -242,8 +242,35 @@ export default {
   0%{
     transform: translateY(100vh) scale(0.4);
   }
+  10%{
+    transform: translateY(90vh) translateX(-5px) scale(0.5);
+  }
+  20%{
+    transform: translateY(80vh) translateX(+5px) scale(0.6);
+  }
+  30%{
+    transform: translateY(70vh) translateX(-5px) scale(0.7);
+  }
+  40%{
+    transform: translateY(60vh) translateX(+5px) scale(0.8);
+  }
+  50%{
+    transform: translateY(50vh) translateX(-5px) scale(0.9);
+  }
+  60%{
+    transform: translateY(40vh) translateX(+5px) scale(1);
+  }
+  70%{
+    transform: translateY(30vh) translateX(-5px) scale(1.1);
+  }
+  80%{
+    transform: translateY(20vh) translateX(+5px) scale(1.2);
+  }
+  90%{
+    transform: translateY(10vh) translateX(-5px) scale(1.3);
+  }
   100%{
-    transform: translateY(-10vh) scale(1.5);
+    transform: translateY(0vh) translateX(5px) scale(1.5);
   }
 }
 .mask{
