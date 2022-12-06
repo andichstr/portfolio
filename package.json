@@ -2,7 +2,6 @@
   "name": "portfolio-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andichstr.github.io/portfolio",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
