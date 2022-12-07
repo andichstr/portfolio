@@ -1,4 +1,6 @@
-# portfolio-frontend
+# Andrés Schuster portfolio source code
+
+## Published on: https://andichstr.github.io/portfolio
 
 ## Project setup
 ```
