@@ -9,19 +9,19 @@
         <span :class="inversedTheme" style="--i:30"></span>
         <span :class="inversedTheme" style="--i:16"></span>
         <span :class="inversedTheme" style="--i:12"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
+        <span :class="inversedTheme" style="--i:36"></span>
         <span :class="inversedTheme" style="--i:28"></span>
         <span :class="inversedTheme" style="--i:22"></span>
         <span :class="inversedTheme" style="--i:15"></span>
         <span :class="inversedTheme" style="--i:20"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
+        <span :class="inversedTheme" style="--i:29"></span>
+        <span :class="inversedTheme" style="--i:24"></span>
         <span :class="inversedTheme" style="--i:19"></span>
         <span :class="inversedTheme" style="--i:17"></span>
         <span :class="inversedTheme" style="--i:11"></span>
-        <span :class="inversedTheme" style="--i:13"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
+        <span :class="inversedTheme" style="--i:33"></span>
+        <span :class="inversedTheme" style="--i:25"></span>
+        <span :class="inversedTheme" style="--i:10"></span>
         <span :class="inversedTheme" style="--i:21"></span>
         <span :class="inversedTheme" style="--i:23"></span>
         <span :class="inversedTheme" style="--i:13"></span>
@@ -36,22 +36,49 @@
         <span :class="inversedTheme" style="--i:30"></span>
         <span :class="inversedTheme" style="--i:16"></span>
         <span :class="inversedTheme" style="--i:12"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
+        <span :class="inversedTheme" style="--i:33"></span>
         <span :class="inversedTheme" style="--i:28"></span>
         <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:19"></span>
+        <span :class="inversedTheme" style="--i:9"></span>
+        <span :class="inversedTheme" style="--i:21"></span>
+        <span :class="inversedTheme" style="--i:25"></span>
+        <span :class="inversedTheme" style="--i:38"></span>
+        <span :class="inversedTheme" style="--i:24"></span>
         <span :class="inversedTheme" style="--i:17"></span>
         <span :class="inversedTheme" style="--i:11"></span>
-        <span :class="inversedTheme" style="--i:13"></span>
+        <span :class="inversedTheme" style="--i:35"></span>
         <span :class="inversedTheme" style="--i:22"></span>
         <span :class="inversedTheme" style="--i:15"></span>
         <span :class="inversedTheme" style="--i:21"></span>
         <span :class="inversedTheme" style="--i:23"></span>
         <span :class="inversedTheme" style="--i:13"></span>
+        <span :class="inversedTheme" style="--i:17"></span>
+        <span :class="inversedTheme" style="--i:19"></span>
+        <span :class="inversedTheme" style="--i:20"></span>
+        <span :class="inversedTheme" style="--i:16"></span>
+        <span :class="inversedTheme" style="--i:11"></span>
+        <span :class="inversedTheme" style="--i:14"></span>
+        <span :class="inversedTheme" style="--i:24"></span>
+        <span :class="inversedTheme" style="--i:18"></span>
+        <span :class="inversedTheme" style="--i:30"></span>
+        <span :class="inversedTheme" style="--i:27"></span>
+        <span :class="inversedTheme" style="--i:12"></span>
+        <span :class="inversedTheme" style="--i:29"></span>
+        <span :class="inversedTheme" style="--i:19"></span>
+        <span :class="inversedTheme" style="--i:7"></span>
+        <span :class="inversedTheme" style="--i:22"></span>
+        <span :class="inversedTheme" style="--i:35"></span>
+        <span :class="inversedTheme" style="--i:30"></span>
+        <span :class="inversedTheme" style="--i:23"></span>
+        <span :class="inversedTheme" style="--i:16"></span>
+        <span :class="inversedTheme" style="--i:9"></span>
+        <span :class="inversedTheme" style="--i:11"></span>
+        <span :class="inversedTheme" style="--i:13"></span>
+        <span :class="inversedTheme" style="--i:24"></span>
+        <span :class="inversedTheme" style="--i:15"></span>
+        <span :class="inversedTheme" style="--i:21"></span>
+        <span :class="inversedTheme" style="--i:38"></span>
+        <span :class="inversedTheme" style="--i:31"></span>
         <span :class="inversedTheme" style="--i:17"></span>
         <span :class="inversedTheme" style="--i:19"></span>
         <span :class="inversedTheme" style="--i:20"></span>
@@ -63,46 +90,19 @@
         <span :class="inversedTheme" style="--i:30"></span>
         <span :class="inversedTheme" style="--i:16"></span>
         <span :class="inversedTheme" style="--i:12"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
+        <span :class="inversedTheme" style="--i:39"></span>
         <span :class="inversedTheme" style="--i:28"></span>
         <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
+        <span :class="inversedTheme" style="--i:10"></span>
         <span :class="inversedTheme" style="--i:20"></span>
         <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:19"></span>
-        <span :class="inversedTheme" style="--i:17"></span>
-        <span :class="inversedTheme" style="--i:11"></span>
-        <span :class="inversedTheme" style="--i:13"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:21"></span>
-        <span :class="inversedTheme" style="--i:23"></span>
-        <span :class="inversedTheme" style="--i:13"></span>
-        <span :class="inversedTheme" style="--i:17"></span>
-        <span :class="inversedTheme" style="--i:19"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:11"></span>
-        <span :class="inversedTheme" style="--i:14"></span>
         <span :class="inversedTheme" style="--i:24"></span>
-        <span :class="inversedTheme" style="--i:18"></span>
-        <span :class="inversedTheme" style="--i:30"></span>
-        <span :class="inversedTheme" style="--i:16"></span>
-        <span :class="inversedTheme" style="--i:12"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
-        <span :class="inversedTheme" style="--i:28"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:20"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
         <span :class="inversedTheme" style="--i:19"></span>
         <span :class="inversedTheme" style="--i:17"></span>
         <span :class="inversedTheme" style="--i:11"></span>
         <span :class="inversedTheme" style="--i:13"></span>
-        <span :class="inversedTheme" style="--i:22"></span>
-        <span :class="inversedTheme" style="--i:15"></span>
+        <span :class="inversedTheme" style="--i:27"></span>
+        <span :class="inversedTheme" style="--i:32"></span>
         <span :class="inversedTheme" style="--i:21"></span>
         <span :class="inversedTheme" style="--i:23"></span>
       </div>
@@ -243,34 +243,34 @@ export default {
     transform: translateY(100vh) scale(0.4);
   }
   10%{
-    transform: translateY(90vh) translateX(-5px) scale(0.5);
+    transform: translateY(89vh) translateX(-5px) scale(0.5);
   }
   20%{
-    transform: translateY(80vh) translateX(+5px) scale(0.6);
+    transform: translateY(78vh) translateX(+5px) scale(0.6);
   }
   30%{
-    transform: translateY(70vh) translateX(-5px) scale(0.7);
+    transform: translateY(67vh) translateX(-5px) scale(0.7);
   }
   40%{
-    transform: translateY(60vh) translateX(+5px) scale(0.8);
+    transform: translateY(56vh) translateX(+5px) scale(0.8);
   }
   50%{
-    transform: translateY(50vh) translateX(-5px) scale(0.9);
+    transform: translateY(45vh) translateX(-5px) scale(0.9);
   }
   60%{
-    transform: translateY(40vh) translateX(+5px) scale(1);
+    transform: translateY(34vh) translateX(+5px) scale(1);
   }
   70%{
-    transform: translateY(30vh) translateX(-5px) scale(1.1);
+    transform: translateY(23vh) translateX(-5px) scale(1.1);
   }
   80%{
-    transform: translateY(20vh) translateX(+5px) scale(1.2);
+    transform: translateY(12vh) translateX(+5px) scale(1.2);
   }
   90%{
-    transform: translateY(10vh) translateX(-5px) scale(1.3);
+    transform: translateY(1vh) translateX(-5px) scale(1.3);
   }
   100%{
-    transform: translateY(0vh) translateX(5px) scale(1.5);
+    transform: translateY(-10vh) translateX(5px) scale(1.5);
   }
 }
 .mask{

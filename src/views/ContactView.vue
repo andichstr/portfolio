@@ -3,7 +3,7 @@
       <Header/>
       <div class="contactPage">
         <div class="contactContent" v-for="(contact, i) in contacts" :key="i">
-          <a class="contactText" :href=contact.url><img class="contactImg" :class="isLight" src="../assets/img/inside.png" :alt=contact.name>{{contact.name}}</a>
+          <a class="contactText" :href=contact.url target="_blank"><img class="contactImg" :class="isLight" src="../assets/img/inside.png" :alt=contact.name>{{contact.name}}</a>
         </div>
       </div>
     </div>

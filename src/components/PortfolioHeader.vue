@@ -3,9 +3,9 @@
     <h1>Andrés Schuster</h1>
     <p class="subtitle">Fullstack Developer</p>
     <ul>
-      <li><router-link to="/"><span v-if='notHome'>Home</span><span v-else>♥</span></router-link></li>
-      <li><router-link to="/projects"><span v-if="$route.path != '/projects'">Projects</span><span v-else>♥</span></router-link></li>
-      <li><router-link to="/contact"><span v-if="$route.path != '/contact'">Contact</span><span v-else>♥</span></router-link></li>
+      <li><router-link to="/"><span v-if='notHome'>Home</span><span v-else>•</span></router-link></li>
+      <li><router-link to="/projects"><span v-if="$route.path != '/projects'">Projects</span><span v-else>•</span></router-link></li>
+      <li><router-link to="/contact"><span v-if="$route.path != '/contact'">Contact</span><span v-else>•</span></router-link></li>
     </ul>
   </header>
 </template>

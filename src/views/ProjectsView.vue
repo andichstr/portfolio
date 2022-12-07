@@ -15,7 +15,6 @@
   
   <script>
   import Header from "../components/PortfolioHeader.vue";
-  
   export default {
     components: { Header },
     data(){
@@ -30,6 +29,11 @@
             "title": "Food e-commerce (Frontend)",
             "info": "Vue.js",
             "url": "https://github.com/andichstr/proyecto-final-vuex"
+          },
+          {
+            "title": "This portfolio (Frontend)",
+            "info": "Vue.js",
+            "url": "https://github.com/andichstr/portfolio"
           }
         ]
       }
